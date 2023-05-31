@@ -5,7 +5,8 @@ Api cliente Cbtis169
 
 Funciones
 --------------
-Leer Usuarios
-Actualizar Usuarios
-Crear Usuario
-Borrar Usuarios
+*Leer Usuarios
+*Actualizar Usuarios
+*Crear Usuario
+*Borrar Usuarios
+https://cbtis169.net/media/alumnos4.jpg
