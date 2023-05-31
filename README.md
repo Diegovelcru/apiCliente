@@ -9,4 +9,5 @@ Funciones
 *Actualizar Usuarios
 *Crear Usuario
 *Borrar Usuarios
-https://cbtis169.net/media/alumnos4.jpg
+
+![Alumnos CBTis](https://cbtis169.net/media/alumnos4.jpg)
